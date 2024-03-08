@@ -19,4 +19,4 @@ pip install -r requirements.txt
 ## Screenshots
 
 ![PowerBI Dashboard](./Pictures/dashboard.png "PowerBI Dashboard")
-![PowerPoint Presentation](./Pictures/dashboard.png "PowerPoint Presentation")
+![PowerPoint Presentation](./Pictures/presentation.png "PowerPoint Presentation")
